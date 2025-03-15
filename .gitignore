@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# fastf1 cache
+cache_fast_f1
+cache_fast_f1/
